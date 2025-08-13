@@ -4,7 +4,8 @@ const nextConfig = {
     domains: ["team08-funfun.s3.ap-northeast-2.amazonaws.com",
       "example.com",
       'www.kopis.or.kr',
-      "tong.visitkorea.or.kr"
+      "tong.visitkorea.or.kr",
+      "storage.googleapis.com"
     ],
   },
 };
